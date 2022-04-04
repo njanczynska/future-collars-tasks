@@ -1,7 +1,7 @@
 package daysOfTheWeek;
 
-public class daysOfTheWeek {
-    public String dayOfTheWeek(int day) {
+public class DaysOfTheWeek {
+    public static String dayOfTheWeek(int day) {
         switch (day) {
             case 1:
                 return "Monday";
